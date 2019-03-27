@@ -1,4 +1,4 @@
-# Todo-list-serve
+# Todo-list-server
 ## start server
 ```
 nodemon index.js
